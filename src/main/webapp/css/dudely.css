@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.clearFix {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Verdana, Sans-Serif;
+    font-size: 12px;
+    margin: auto;
+    background-image: url('../img/standingOnCliff.jpg');
+}
