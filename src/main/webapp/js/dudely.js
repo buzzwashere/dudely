@@ -1,7 +1,7 @@
 
 var thisIsHowWeDoIt = function() {
 
-    $('body').append('<br><h2>Dudely, the marvelous web app template!</h2>');
+    $('body').append('<div class="app-title"><h1>Dudely, the marvelous web app template!</h1></div>');
     
 };
 

@@ -10,5 +10,12 @@ body {
     font-family: Arial, Verdana, Sans-Serif;
     font-size: 12px;
     margin: auto;
-    background-image: url('../img/standingOnCliff.jpg');
+    background: url('../img/standingOnCliff.jpg') no-repeat center center fixed;
+    background-size:cover;
+}
+.app-title {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    color: white;
 }
